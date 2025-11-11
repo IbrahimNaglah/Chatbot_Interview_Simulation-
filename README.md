@@ -47,7 +47,7 @@ Before running the application, make sure you have the following API keys set up
 1. Create a `.env` file in the `src` directory
 2. Copy the content from `.env_example` to `.env`
 
-Note: You can generate your API Keys from the following:
+Note: You need to get your API Keys from the following and fill the values in `.env`:
 - OPENAI_API_KEY --> https://platform.openai.com/api-keys
 - GROQ_API_KEY --> https://console.groq.com/keys
 - LANGCHAIN_API_KEY --> https://docs.langchain.com/langsmith/create-account-api-key
